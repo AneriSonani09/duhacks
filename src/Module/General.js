@@ -26,12 +26,6 @@ import ayush from "./Assets/teami/Ayush_Rudani.jpg";
 import aneri from "./Assets/teami/Aneri_Sonani.jpg";
 
 
-
-
-
-
-
-
 const TOP_SECTION = {
   TITLE: "DUHacks",
   Typed_effect: ["36 hours of creation", "Win awesome prizes", "Events And Sessions"],
